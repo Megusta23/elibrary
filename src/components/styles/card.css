@@ -1,0 +1,28 @@
+.card-container {
+    position: relative;
+}
+
+.card-container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bottom-left {
+    background-color: rgba(0, 0, 0, 0.507);
+    padding: 1rem;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+
+}
+
+.category {
+    background-color: #006EFF;
+    color: white;
+    padding: 0.5rem 0.75rem;
+    border-radius: 20px;
+}
+
+.title {
+    color: white;
+}

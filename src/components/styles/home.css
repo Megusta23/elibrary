@@ -1,0 +1,12 @@
+.main-text-container {
+    margin: 3rem 0;
+}
+
+.main-text-container h1 {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.main-text-container h3 {
+    color: #64748b;
+}
